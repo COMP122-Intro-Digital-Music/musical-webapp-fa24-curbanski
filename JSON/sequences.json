@@ -1,1 +1,100 @@
-[]
+[
+  {
+    "name": "willow tree ",
+    "loop": "4m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "D4",
+        "dur": "1m",
+        "vel": "0.5"
+      },
+      {
+        "time": "0:2:0.0",
+        "pitch": "F#3",
+        "dur": "2m",
+        "vel": "1"
+      },
+      {
+        "time": "1:0:0.0",
+        "pitch": "D4",
+        "dur": "2n",
+        "vel": "1"
+      },
+      {
+        "time": "1:2:0.0",
+        "pitch": "D4",
+        "dur": "2n",
+        "vel": "1"
+      },
+      {
+        "time": "2:0:0.0",
+        "pitch": "D3",
+        "dur": "2m",
+        "vel": "1"
+      },
+      {
+        "time": "2:2:0.0",
+        "pitch": "A3",
+        "dur": "1m",
+        "vel": "1"
+      },
+      {
+        "time": "3:0:0.0",
+        "pitch": "C3",
+        "dur": "1m",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "la da",
+    "loop": "2m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "D4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:0.0",
+        "pitch": "A4",
+        "dur": "2n",
+        "vel": "1"
+      },
+      {
+        "time": "0:3:0.0",
+        "pitch": "G4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:0:0.0",
+        "pitch": "D4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:1:0.0",
+        "pitch": "A4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "1:1:2.0",
+        "pitch": "A4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "1:2:0.0",
+        "pitch": "G4",
+        "dur": "2n",
+        "vel": "1"
+      }
+    ]
+  }
+]

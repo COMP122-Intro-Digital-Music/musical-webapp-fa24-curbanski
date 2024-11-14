@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Ah-oh-voice",
+    "file": "samples/Ah-oh-voice.mp3",
+    "bpm": "120",
+    "loop": "2m"
+  },
+  {
+    "name": "D-d7-chord",
+    "file": "samples/D-d7-chord.mp3",
+    "bpm": "120",
+    "loop": "2m"
+  },
+  {
+    "name": "hum-voice",
+    "file": "samples/hum-voice.mp3",
+    "bpm": "120",
+    "loop": "2m"
+  },
+  {
+    "name": "quick-pick-guitar",
+    "file": "samples/quick-pick-guitar.mp3",
+    "bpm": "120",
+    "loop": "2m"
+  }
+]
